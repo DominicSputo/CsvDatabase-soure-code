@@ -1,0 +1,22 @@
+﻿@model List<TestWebMVC.Models.Customer>
+<table cellpadding="1" cellspacing="1" border="1">
+    <tr>
+        <th>ID</th>
+        <th>FIRSTNAME</th>
+        <th>LASTNAME</th>
+        <th>MIDDLENAME</th>
+        <th>PHONENUMBER</th>
+        <th>ROW COUNT</th>
+    </tr>    
+    @foreach (var v in Model)
+    {
+    <tr>
+        <td>@v.ID</td>
+        <td>@v.FIRSTNAME</td>
+        <td>@v.LASTNAME</td>
+        <td>@v.MIDDLENAME</td>
+        <td>@v.PHONENUMBER</td>
+        <td>@v.ROWCOUNT</td>
+    </tr>
+    }
+</table>
