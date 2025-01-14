@@ -1,6 +1,9 @@
 # CSV-Database Source Code
 CSV Database using .NET Standard 2.0
 
+Donate https://paypal.me/organicprogrammer?locale.x=en_US
+Donate https://www.patreon.com/OrganicProgrammer
+
 C# CsvDatabase Library New Filter Allows as Many LIKE statements
 [![Watch the video](https://img.youtube.com/vi/NBQLG9h2OaY/maxresdefault.jpg)](https://youtu.be/NBQLG9h2OaY)
 
