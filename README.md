@@ -7,6 +7,9 @@ Donate https://www.patreon.com/OrganicProgrammer
 C# CsvDatabase Library New Filter Allows as Many LIKE statements
 [![Watch the video](https://img.youtube.com/vi/NBQLG9h2OaY/maxresdefault.jpg)](https://youtu.be/NBQLG9h2OaY)
 
+How to use C#.NET or VB.NET CsvDatabase DLL
+[![Watch the video](https://img.youtube.com/vi/F87Nmi4zGC8/maxresdefault.jpg)](https://youtu.be/F87Nmi4zGC8)
+
 C# JSON To XML To JSON
 [![Watch the video](https://img.youtube.com/vi/SSzsiDIkbv4/maxresdefault.jpg)](https://youtu.be/SSzsiDIkbv4)
 
